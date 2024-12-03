@@ -1,2 +1,2 @@
 # AirplaneTicketManager
-Based On Qt
+Based On Qt, C++
